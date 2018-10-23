@@ -18,6 +18,9 @@
     padding: 0.5%;
     border: 1px solid #dfe3ee;
     border-radius: 4px;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    padding-bottom: 0.5%;
 }
 
 .commentButtonDiv {
@@ -47,6 +50,7 @@
     border: none;
     padding-left: 5%;
     padding-right: 0%;
+    background-color: white;
 }
 
 .commentText {
@@ -67,6 +71,7 @@
 .replyButtonDiv > button {
     border: none;
     cursor: pointer;
+    background-color: white;
 }
 
 .replyButtonDiv > button:focus {
